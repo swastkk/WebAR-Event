@@ -1,7 +1,3 @@
-/* `<p align='center'>`
-`<img width="200" src="" alt="img">`
-
-</p> */
 <h1 align='center'>PRE-HULT WebAR-Event</h1>
 This website is using django backend. All you need to do is to go through https://docs.djangoproject.com/ so that you get the basic knowledge that how things are working in django.
 
